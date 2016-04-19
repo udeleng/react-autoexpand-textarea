@@ -1,2 +1,2 @@
 # react-autoexpand-textarea
-Auto expanding text area React component
+Auto expanding/collapsing text area React component
