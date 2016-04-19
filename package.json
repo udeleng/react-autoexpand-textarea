@@ -1,0 +1,20 @@
+{
+  "name": "react-autoexpand-textarea",
+  "version": "1.0.0",
+  "description": "Auto expanding text area React component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/udeleng/react-autoexpand-textarea.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/udeleng/react-autoexpand-textarea/issues"
+  },
+  "homepage": "https://github.com/udeleng/react-autoexpand-textarea#readme"
+}
